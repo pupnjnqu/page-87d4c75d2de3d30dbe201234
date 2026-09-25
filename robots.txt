@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.abssa.cn/sitemap.xml
